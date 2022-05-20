@@ -68,7 +68,7 @@ hasil = b != 4
 print(b, "!=", 4, "=", hasil)
 
 print('\nOperasi komparasi "is" dan "is not"\n')
-# 'is' sebagai komparasi object identity
+# 'is' dan 'is not' sebagai komparasi object identity
 """ A = 5
     A bisa disebut sebagai object
     5 bisa disebut Literal
